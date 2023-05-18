@@ -1,7 +1,7 @@
 # "Responsive Design Magic: Crafting a Dynamic Landing Page for FurnishMasters 
 
 ## Watch Full video on Youtube 
-- [Watch now]()
+- [Watch now](https://youtu.be/e3oUKz1PeT0)
 
 # Demo 
 ## live Demo :
